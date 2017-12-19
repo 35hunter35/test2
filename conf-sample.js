@@ -11,7 +11,7 @@ c.mongo.password = null
 c.mongo.replicaSet = null
 
 // default selector. only used if omitting [selector] argument from a command.
-c.selector = 'gdax.BTC-USD'
+c.selector = 'gdax.LTC-USD'
 // name of default trade strategy
 c.strategy = 'trend_ema'
 
